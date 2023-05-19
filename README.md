@@ -9,6 +9,10 @@ The finalized image can either be build manually (via the `make build` command) 
 
     docker pull thucon/docker-test-server
 
+## Demo
+
+![](docs/demo.png)
+
 ## Commands
 
 Build image
